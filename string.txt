@@ -1,0 +1,9 @@
+INPUT = "\nWould you like to continue? (y/n) "
+
+"\nPlease input the sentence you would like the program to guess: "
+"\nIncorrect input. Please try again.\n"
+"\n\nGeneticGuess results:"
+"Generation: "
+"I found the sentence early!"
+"\nBest Individual: "
+"\n\nThank you for using GeneticGuess Sentencer!"
